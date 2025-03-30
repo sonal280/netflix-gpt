@@ -15,6 +15,8 @@ If you are developing a production application, we recommend using TypeScript an
 
 - Create React App - npm create vite@latest my-app --template react
 - Configured TailwindCSS
+- Header
+- Login Form
 
 # Features
 - Login/Sign Up
@@ -30,4 +32,3 @@ If you are developing a production application, we recommend using TypeScript an
 - Netflix GPT
     - Search Bar
     - Movie Suggestion
-    

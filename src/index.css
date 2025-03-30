@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+body {
+    color: white;   /* Set text color to white */
+    background-color: black; /* Optional: Set background to black for visibility */
+  }
