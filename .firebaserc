@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netflixgpt-4320a",
+    "netflixgpt": "netflixgpt-4320a"
+  },
+  "targets": {},
+  "etags": {}
+}
